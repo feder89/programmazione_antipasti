@@ -66,8 +66,8 @@ function loadDataNext(index){
 
 function showData(data,time){
 	$('#content-'+time).empty();
-	$('#primo-'+time).empty();
-	$('#secondo-'+time).empty();
+	$('#antipasto-'+time).empty();
+	$('#dolce-'+time).empty();
 	var arrays=_.groupBy(data, 'idprg');
 	var gets=new Array();
 	$.each(arrays, function(index, arr) {

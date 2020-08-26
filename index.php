@@ -31,11 +31,11 @@
         
       </div>
   	  <div class="col-12" id="content-incorso"></div>
-  	  <div class="col" style="border-left: 1px solid black;"><div class="row" id="primo-incorso"></div></div>
-  	  <div class="col" style="border-left: 1px solid black;"><div class="row" id="secondo-incorso"></div></div>
+  	  <div class="col" style="border-left: 1px solid black;"><div class="row" id="antipasto-incorso"></div></div>
+  	  <div class="col" style="border-left: 1px solid black;"><div class="row" id="dolce-incorso"></div></div>
       <div class="col-12" id="content-next"></div>
-      <div class="col" style="border-left: 1px solid black;"><div class="row" id="primo-next"></div></div>
-      <div class="col" style="border-left: 1px solid black;"><div class="row" id="secondo-next"></div></div>
+      <div class="col" style="border-left: 1px solid black;"><div class="row" id="antipasto-next"></div></div>
+      <div class="col" style="border-left: 1px solid black;"><div class="row" id="dolce-next"></div></div>
     </div>
 
 

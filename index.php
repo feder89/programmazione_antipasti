@@ -22,12 +22,12 @@
   <div class="container-fluid">
     <div class="row text-center">
       <div class="col" style="border-right: 1px solid black;">
-        <h3>PRIMI</h3>
+        <h3>ANTIPASTI</h3>
         
         
       </div>
       <div class="col" style="border-left: 1px solid black;">
-        <h3>SECONDI</h3>
+        <h3>DOLCI</h3>
         
       </div>
   	  <div class="col-12" id="content-incorso"></div>
